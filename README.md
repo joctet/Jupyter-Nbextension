@@ -1,5 +1,3 @@
-# repositoryname
-HI there
-
-noice to meet u.
-
+# repository name
+fzzdsc
+resolving conflict
