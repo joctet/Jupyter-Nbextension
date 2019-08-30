@@ -1,4 +1,3 @@
-# repositoryname
-
-azdazs
-second try
+# repository name
+fzzdsc
+resolving conflict
